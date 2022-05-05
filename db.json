@@ -1,0 +1,12 @@
+{
+    "data" : [
+        {
+            "name":"anc",
+            "branch" : "cse"
+        },
+        {
+            "name":"xyz",
+            "branch" : "cse"
+        }
+    ]
+}
