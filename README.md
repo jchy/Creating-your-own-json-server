@@ -36,7 +36,7 @@ Creating json-server from scratch
 ```
   "start" : "json-server --watch db.json"
 ```
-NOTE : After adding above lne of code your package.json will look like this
+NOTE : After adding above line of code your package.json will look like this
 ```
    {
       "name": "test",
